@@ -45,20 +45,6 @@ To identify key drivers of insurance cost variation and present insights through
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Preview](dashboard.png)
-
----
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file  
-2. Open in Power BI Desktop  
-3. Interact with slicers to explore the data  
-
----
-
 ## 👤 Author
 
 **Elizabeth Francis**
